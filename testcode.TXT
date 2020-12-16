@@ -1,0 +1,24 @@
+Enter minimum value
+5
+Enter maximum value
+65
+The prime numbers between 5 and 65 are:
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+Hello From Nandini R
+Hello From Nandini
+Press any key to continue . . .
