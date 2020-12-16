@@ -24,9 +24,9 @@ Hello From Nandini
 Press any key to continue . . .
 
 Enter minimum value
-5
+15
 Enter maximum value
-65
+80
 The prime numbers between 15 and 80 are:
 13
 17
