@@ -28,7 +28,6 @@ Enter minimum value
 Enter maximum value
 80
 The prime numbers between 15 and 80 are:
-13
 17
 19
 23
