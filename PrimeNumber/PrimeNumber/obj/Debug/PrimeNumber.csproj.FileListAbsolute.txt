@@ -1,0 +1,7 @@
+E:\.NET\Specialization\Day2Question\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+E:\.NET\Specialization\Day2Question\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+E:\.NET\Specialization\Day2Question\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+E:\.NET\Specialization\Day2Question\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+E:\.NET\Specialization\Day2Question\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+E:\.NET\Specialization\Day2Question\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+E:\.NET\Specialization\Day2Question\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
